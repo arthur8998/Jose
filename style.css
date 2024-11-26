@@ -9,10 +9,8 @@
          justify-content: center;
      }
 
-     ul {
-        display: flex;
-        list-style: none;
-     }
+    
+     
     .nav-lista{
         display: flex;
         list-style: none;
